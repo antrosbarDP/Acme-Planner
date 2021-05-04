@@ -9,3 +9,6 @@
 # they accept any liabilities with respect to them.
 
 This is Acme-Planner
+
+https://github.com/antrosbarDP/Acme-Planner
+https://github.com/antrosbarDP/Acme-Planner/releases/tag/D02
