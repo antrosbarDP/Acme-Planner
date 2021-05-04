@@ -28,7 +28,14 @@ master.menu.sign-out = Sign out
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anonymous
-master.menu.anonymous.favourite-link = Favourite link
+master.menu.anonymous.shout.create = Create Shouts
+master.menu.anonymous.shout.list = List Shouts
+master.menu.anonymous.task.list = List Tasks
+
+# master.menu.authenticated #######################################################
+
+master.menu.authenticated = User
+master.menu.authenticated.task.list = List Tasks
 
 # master.menu.administrator ###################################################
 
@@ -38,6 +45,7 @@ master.menu.administrator.user-accounts = User accounts
 master.menu.administrator.populate-initial = Populate DB (initial)
 master.menu.administrator.populate-sample = Populate DB (samples)
 master.menu.administrator.shutdown = Shut down
+master.menu.administrator.dashboard = Dashboard
 
 # master.menu.provider ########################################################
 
@@ -57,6 +65,8 @@ master.menu.user-account.provider = Provider data
 master.menu.user-account.become-provider = Become a provider
 master.menu.user-account.consumer = Consumer data
 master.menu.user-account.become-consumer = Become a consumer
+master.menu.user-account.manager = Manager data
+master.menu.user-account.become-manager = Become a manager
 
 # master.footer ###############################################################
 

@@ -1,0 +1,28 @@
+# i18n_en.messages
+#
+# Copyright (C) 2012-2021 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+administrator.dashboard.form.title.show = Dashboard
+
+administrator.dashboard.form.title.general-indicators = General indicators
+administrator.dashboard.form.label.totalPublic = Total Public Tasks
+administrator.dashboard.form.label.totalFinished = Total Finished Tasks
+administrator.dashboard.form.label.totalUnfinished = Total Unfinished Tasks
+administrator.dashboard.form.label.totalPrivate = Total Private Tasks
+administrator.dashboard.form.label.avgPeriod = Average Execution Period Days
+administrator.dashboard.form.label.maxPeriod = Maximum Execution Period Days
+administrator.dashboard.form.label.minPeriod = Minimum Execution Period Days
+administrator.dashboard.form.label.sdPeriod = Standard Deviation of Execution Period Days
+administrator.dashboard.form.label.avgWorkload = Average Workload Hours
+administrator.dashboard.form.label.maxWorkload = Maximum Workload Hours
+administrator.dashboard.form.label.minWorkload = Minimum Workload Hours
+administrator.dashboard.form.label.sdWorkload = Standard Deviation of Workload Hours
+
+
+

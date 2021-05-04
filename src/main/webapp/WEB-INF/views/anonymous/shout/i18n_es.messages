@@ -1,4 +1,4 @@
-# NOTICE.txt
+# i18n_es.messages
 #
 # Copyright (C) 2012-2021 Rafael Corchuelo.
 #
@@ -8,4 +8,10 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-- Antonio Rosado Barrera (antrosbar@alum.us.es, antrosbar.profesional@gmail.com)
+anonymous.shout.list.label.moment = Fecha
+anonymous.shout.list.label.author = Autor
+anonymous.shout.list.label.text = Texto
+
+anonymous.shout.form.label.info = Info
+anonymous.shout.form.label.author = Autor
+anonymous.shout.form.label.text = Texto
